@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:278
+msgid "After Cart Form"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:264
+msgid "Automatically Add Donation to cart"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:277
+msgid "Before Cart Form"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:212
+msgid "Cart Donation Button Text"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:197
+msgid "Cart Text"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:204
+msgid "Cart donation Subtitle"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:230
+msgid "Checkout  Text"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:221
+msgid "Checkout Title Text"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:301
+msgid "Click here"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:121
+msgid "Create Donation product"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:284
+msgid "Custom Css"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:274
+msgid "Donation Form Position"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:299
+msgid "Donation Product should be non taxable,not shippable product. Also Keep in mind that the new product title will be visible on the cart, the checkout page and invoice so name it something like DONATIONS"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:215
+msgid "EX : Add Donation."
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:224
+msgid "EX : Add a donation to your order."
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:190
+msgid "EX : Donation added! Thanks for supporting us."
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:182
+msgid "EX : Enter the amount you wish to donate."
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:233
+msgid "EX : If you wish to add a donation you can do so.."
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:207
+msgid "EX : Raise your hand to support Us."
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:250
+msgid "Enter Donation  Minimum Amount."
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:300
+msgid "For any kind of query, You can leave"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:301
+msgid "For full documation of Plugin"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:237
+msgid "Hide Donation Product On shop"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:270
+msgid "If Yes, Donation will automatically added in cart with minimum amount when customer visit cart page."
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:254
+msgid "Make Donation Mandatory"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:299
+msgid "NOTE"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:172
+msgid "No , use default text for now"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:267
+msgid "No, Let customer to do it"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:257
+msgid "No, Let it be optional"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:240
+msgid "No, Let it display"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:124
+msgid "Product Title"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:165
+msgid "Select Donation Product if you have created it."
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:137
+#: woocommerce_donations_on_cart.php:140
+msgid "Select Donation product"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:247
+msgid "Set Minimum Donation Amount"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:179
+msgid "Single Product page title"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:187
+msgid "Single product confirmation"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:169
+msgid "Use custom text"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:268
+msgid "Yes , Add it Automatically"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:241
+msgid "Yes , Hide It"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:258
+msgid "Yes , Make it Mandatory"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:173
+msgid "Yes ,I want to use custom texts as defined below"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:300
+msgid "comment here"
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:260
+msgid "if yes, Donation will be Required."
+msgstr ""
+
+#. Text in function
+#: woocommerce_donations_on_cart.php:243
+msgid "if yes, It will Hide donation proct from shop page."
+msgstr ""

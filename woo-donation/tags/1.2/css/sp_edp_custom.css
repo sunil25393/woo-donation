@@ -1,0 +1,86 @@
+.donation_admin{
+    background-color: #fff;
+    margin: 30px 0px;
+    box-shadow: 0 0 10px 2px #D8D8D8;
+    width: 95%;
+}
+.donation_admin > h3{
+    background-color: #56d6d2;
+    color: #fff;
+    padding: 20px;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+.donation_admin > table,.donation_admin > form,.donation_admin > div{
+    padding: 0 20px ;
+}
+.donation_admin input[type=text]{
+    line-height: 24px;
+    font-size: 18px;
+}
+.donation_admin label{
+    font-size: 18px;
+    color: #444;
+}
+.donation_admin .form-table th{
+    width: 250px!important;
+}
+.donation_admin select {
+    height: 34px!important;
+    font-size: 18px!important;
+    color: #444;
+}
+.donation_admin .button-primary{
+    font-size: 18px;
+    height: auto;
+    padding: 10px;
+    background: #56d6d2;
+    border-color: #006799;
+    color: #fff;
+    box-shadow: 0 0 2px 1px #f2f2f2;
+    border: none;
+    text-shadow: none;
+}
+.donation_admin .btn-create{
+    font-size: 16px;
+    height: auto;
+    padding: 5px;
+    background: #56d6d2;
+    border-color: #006799;
+    color: #fff;
+    box-shadow: 0 0 2px 1px #f2f2f2;
+    border: none;
+    text-shadow: none;
+}
+.clearfix {
+    clear: both;
+    display: table;
+}
+.donation_admin .button-primary:hover,.donation_admin .button:hover {
+    background: #257371;
+    border-color: #257371;
+    color: #fff;
+}
+
+
+.spwd_promo {
+    background: #fff;
+    padding: 15px 20px;
+    margin-top: 30px;
+    box-shadow: 0 0 4px 1px #DAD2D2;
+}
+.spwd_promo h2 {
+    color: #666;
+}
+.spwd_promo .w50{
+    width: 46%;
+    float: left;
+}
+.spwd_promo .w50:first-child{
+    margin-right: 3%;
+    padding-right: 2.8%;
+    border-right: 1px solid #b1b1b1;
+}
+.spwd_promo h2{
+    margin-top: 0px;
+}

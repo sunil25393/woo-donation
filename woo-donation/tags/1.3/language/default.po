@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: woocommerce_donations_on_cart.php:48
+msgid " In order to use <b>Woo Easy Donaion Plugin</b>, You need to install <a href=\"https://wordpress.org/plugins/woocommerce/\" alt=\"wocommerce\">woocommerce</a> plugin."
+msgstr ""
